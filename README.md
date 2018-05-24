@@ -1,10 +1,10 @@
 # salvatore
-Salvatore is a digital roleplaying game. In the game, the main character, Salvatore, hunts down his enemy, Deadly Nightshade. The game ends when either Deadly Nightshade is dead or Salvatore is dead. It's played in two minute rounds in which everyone picks who they suspect to be Deadly Nightshade while Deadly Nightsahde picks who they want to eliminate.
+Salvatore is a digital roleplaying game. In the game, the main character, Salvatore, hunts down his enemy, Deadly Nightshade. The game ends when either Deadly Nightshade is dead or Salvatore is dead. It's played in two minute rounds in which everyone picks whom they suspect to be Deadly Nightshade while Deadly Nightsahde picks whom they want to eliminate.
 
 ## Characters
 Every game, each person is assigned a character that has special roles.
 ### Narrator
-The Narrator is chosen at the beginning of the game and they pick which characters are in the game, how many of each are included, items, and, the location. This is done before anyone is assigned to their roles. The narrator goes into the game with the special knowledge of how many characters are included in the game. THerefore, if the narrator becomes Salvatore during the game, they can use this information to weed out anyone who's lying. While if the narrator becomes Deadly Nightshade, they can lie abou their role more accurately because they can pick a role that they did not include in the roster. The narrator's identity is publicly known to everyone.
+The Narrator is chosen at the beginning of the game and they pick which characters are in the game, how many of each are included, items, and, the location. This is done before anyone is assigned to their roles. The narrator goes into the game with the special knowledge of how many characters are included in the game. Therefore, if the narrator becomes Salvatore during the game, they can use this information to weed out anyone who's lying. While if the narrator becomes Deadly Nightshade, they can lie about their role more accurately because they can pick a role that they did not include in the roster. The narrator's identity is publicly known to everyone.
 ### Salvatore
 Salvatore is the main character of the game. His goal is to eliminate Deadly Nightshade. Every round, he gathers clues and tries to as to who is Deadly Nightshade while also trying not to give away his identity. At the end of the round, Salvatore can eliminate the person he suspects to be Deadly Nightshade.
 ### Deadly Nightshade
